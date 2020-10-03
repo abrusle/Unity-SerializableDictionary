@@ -1,0 +1,11 @@
+{
+	"name": "com.azixmcaze.unityserializabledictionary",
+	"version": "1.1.1",
+	"displayName": "Unity Serializable Dictionary",
+	"description": "A serializable dictionary class for Unity.\nMore info at: https://github.com/azixMcAze/Unity-SerializableDictionary\nProject adapted to UPM by lightbringer (https://github.com/lightbringer/Unity-SerializableDictionary), and restructured by abrusle (https://github.com/abrusle/Unity-SerializableDictionary)",
+	"unity": "2020.1",
+	"author": {
+		"name": "AzixMcAze",
+		"url": "https://github.com/azixMcAze"
+	}
+}

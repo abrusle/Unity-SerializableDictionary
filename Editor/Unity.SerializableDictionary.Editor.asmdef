@@ -1,0 +1,17 @@
+{
+    "name": "Unity.SerializableDictionary.Editor",
+    "references": [
+        "GUID:1bc02231c4ace4941aeadea537dea564"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
